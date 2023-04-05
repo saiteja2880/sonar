@@ -25,5 +25,5 @@ jobs:
         sonar-project-base-dir: .
         sonar-project-key: <saiteja2880_sonar>
         sonar-organization: <saiteja2880>
-        sonar-host-url: <https://sonarcloud.io>
+        sonar-host-url: <https://sonarcloud.io/organizations/saiteja2880/projects>
         sonar-login: ${{ secrets.SONARQUBE_TOKEN }}
